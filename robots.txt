@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://100-coder.github.io/sitemap.xml

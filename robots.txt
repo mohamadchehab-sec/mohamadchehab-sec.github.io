@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohamadchehab-sec.github.io/sitemap.xml
